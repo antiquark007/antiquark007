@@ -1,6 +1,5 @@
 <div align="center">
-<img src="![image](https://github.com/user-attachments/assets/b2d2e334-1c5d-48d9-b416-9c9ca8aab8c2)
-" width="100%">
+<img src="https://github.com/user-attachments/assets/b2d2e334-1c5d-48d9-b416-9c9ca8aab8c2" width="100%">
 </div>
 <h1 align="center">ved praksh singh</h1>
 
