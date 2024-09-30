@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/319473/screenshots/4111136/media/b63b17f7a924eccee6e49014d10adc2a.gif" width="100%">
+<img src="![image](https://github.com/user-attachments/assets/b2d2e334-1c5d-48d9-b416-9c9ca8aab8c2)
+" width="100%">
 </div>
 <h1 align="center">ved praksh singh</h1>
 
