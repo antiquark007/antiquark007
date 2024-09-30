@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/antiquark007/bmi_calc/blob/main/61c36e236bdcc77ab100077492bcea1b.gif" width="100%" height="90%">
+<img src="https://github.com/antiquark007/bmi_calc/blob/main/61c36e236bdcc77ab100077492bcea1b.gif" width="100%">
 </div>
 <h1 align="center">ved praksh singh</h1>
 
