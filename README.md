@@ -2,6 +2,7 @@
 <img src="https://cdn.dribbble.com/users/319473/screenshots/4111136/media/b63b17f7a924eccee6e49014d10adc2a.gif" width="100%">
 </div>
 <h1 align="center">ved praksh singh</h1>
+# 💫 About Me: ![](https://komarev.com/ghpvc/?username=antiquark007&label=Profile+views&style=for-the-badge&color=green)
 - 👋 Hi
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning javascript.
