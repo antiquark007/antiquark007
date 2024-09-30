@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4111136-Reinvently-Insights-3-0&psig=AOvVaw0KjWvL8_0LSgrfZtmR1Ze_&ust=1727799271988000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODY94GI64gDFQAAAAAdAAAAABAY" width="100%">
+<img src="https://cdn.dribbble.com/users/319473/screenshots/4111136/media/b63b17f7a924eccee6e49014d10adc2a.gif" width="100%">
 </div>
-- 👋 Hi, I’m ved prakash singh
+<h1 align="center">ved praksh singh C</h1>
+- 👋 Hi
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on frontend.
