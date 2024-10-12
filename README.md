@@ -38,3 +38,7 @@ You can click the Preview link to take a look at your changes.
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antiquark007&theme=transparent"></td>
   </tr>
 </table>
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=antiquark007&theme=juicyfresh&no-bg=true" />
+
+[![Holopin](https://holopin.me/antiquark007)](https://holopin.io/@antiquark007)
