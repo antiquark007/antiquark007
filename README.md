@@ -43,12 +43,11 @@
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 
-![ved's Graph](https://github-readme-activity-graph.vercel.app/graph?username=antiquark007&custom_title=ved%20GitHub%20Activity%20Graph&bg_color=none&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![ved's Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnasblasco&custom_title=Johnas%20GitHub%20Activity%20Graph&bg_color=none&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-| ![ved's github stats](https://github-readme-stats.vercel.app/api?username=johnasblasco&show_icons=true&theme=transparent) | ![ved GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnasblasco&theme=transparent) |                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antiquark007&theme=transparent)               | ![Github Stars](https://github-readme-stats.vercel.app/api?username=antiquark007&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=transparent) |
-
+| ![ved's github stats](https://github-readme-stats.vercel.app/api?username=antiquark007&show_icons=true&theme=transparent) | ![ved GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antiquark007&theme=transparent) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antiquark007&theme=transparent) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=antiquark007&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=transparent) |
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=antiquark007&theme=tokyonight&&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" />
 </p>
