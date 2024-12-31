@@ -45,7 +45,7 @@
 
 ![ved's Graph](https://github-readme-activity-graph.vercel.app/graph?username=antiquark007&custom_title=ved%20GitHub%20Activity%20Graph&bg_color=none&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-| ![ved's github stats](https://github-readme-stats.vercel.app/api?username=antiquark007&show_icons=true&theme=transparent) | ![ved's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antiquark007&theme=transparent)                                                                                                            |
+| ![ved's github stats](https://github-readme-stats.vercel.app/api?username=antiquark007&show_icons=true) | ![ved's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antiquark007)                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antiquark007&theme=transparent)               | ![Github Stars](https://github-readme-stats.vercel.app/api?username=antiquark007&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=transparent) |
 
