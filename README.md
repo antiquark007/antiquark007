@@ -43,7 +43,7 @@
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 
-![ved's Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnasblasco&custom_title=Johnas%20GitHub%20Activity%20Graph&bg_color=none&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![ved's Graph](https://github-readme-activity-graph.vercel.app/graph?username=antiquark007&custom_title=antiquark007%20GitHub%20Activity%20Graph&bg_color=none&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 | ![ved's github stats](https://github-readme-stats.vercel.app/api?username=antiquark007&show_icons=true&theme=transparent) | ![ved GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antiquark007&theme=transparent) |
 | --- | --- |
