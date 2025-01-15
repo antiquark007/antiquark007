@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ved Prakash Singh</h1>
-<h3 align="center">Conserving the Entropy | Empowering Change</h3>
+<h1 align="center">Hi 👋, I'm ved</h1>
+<h3 align="center">Conserving the Entropy </h3>
 
-<!-- Horizontal Divider (Gradient) -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </p>
 
-<!-- Visitor Counter -->
+
 <p align="center">
   <div>Visitor Count</div>
-  <div>
+  <div align ="center">
     <img src="https://komarev.com/ghpvc/?username=antiquark007&label=Profile+views&style=flat&color=blueviolet" alt="Profile Views">
   </div>
 </p>
 
-<!-- Introduction Section -->
+
 <table align="center">
 <tr>
 <td width="50%" valign="top">
@@ -33,12 +33,12 @@
 </tr>
 </table>
 
-<!-- Horizontal Divider (Gradient) -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </p>
 
-<!-- Statistics Section -->
+
 <h3 align="center">My Statistics:</h3>
 
 <p align="center">
@@ -64,12 +64,12 @@
 </tr>
 </table>
 
-<!-- Horizontal Divider (Gradient) -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </p>
 
-<!-- Connect Section -->
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://x.com/antiquark007" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="Twitter" height="50" width="50"></a>
@@ -78,12 +78,12 @@
   <a href="https://www.instagram.com/antiquark007/" target="_blank"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" height="50" width="50"></a>
 </p>
 
-<!-- Horizontal Divider (Gradient) -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </p>
 
-<!-- Skills Section -->
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" height="50" width="50">
@@ -96,12 +96,12 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" height="50" width="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="NodeJS" height="50" width="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" height="50" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" height="50" width="50">
-  <img src="https://skill-icons.dev/icons?i=git" alt="Git" height="50" width="50">
-  <img src="https://skill-icons.dev/icons?i=docker" alt="Docker" height="50" width="50">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="50" width="50">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
 </p>
 
-<!-- Horizontal Divider (Gradient) -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </p>
