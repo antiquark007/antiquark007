@@ -9,6 +9,7 @@
   
   <div align="center">
     <img src="https://profile-counter.glitch.me/antiquark007/count.svg"/>
+    ![](https://komarev.com/ghpvc/?username=ShinichiShi&label=Profile+views&style=flat&color=blueviolet)
   </div> 
 </p>
 
