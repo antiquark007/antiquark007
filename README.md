@@ -57,8 +57,6 @@
 <p align="center">
 <a href="https://x.com/antiquark007" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="kaveendinethma" height="72" width="56" /></a>
 <a href="https://linkedin.com/in/antiquark007" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="https://fb.com/antiquark007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
-<a href="https://www.instagram.com/antiquark007/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
 
 
