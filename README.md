@@ -1,70 +1,107 @@
-<h1 align="center">Hi 👋,I'm ved prakash singh</h1>
-<h3 align="center">conserving the entropy</h3>
+# Ved Prakash Singh
 
+<div align="center">
+  
+### Full Stack Developer
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+*Conserving the entropy*
 
-<p align="center">
-  <div align ="center">
-    <img height="50%" src="https://komarev.com/ghpvc/?username=antiquark007&label=Profile+views&style=flat&color=blueviolet" alt="Profile Views">
-  </div>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=antiquark007&label=Profile+views&style=flat&color=0891b2)](https://github.com/antiquark007)
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+</div>
 
-🌎 Visit my [Twitter](https://x.com/antiquark007)
-🌎 Visit my [Website](http://antiquark007.me)
+---
 
-✨ How to reach me **vedp5585@gmail.com**
+## 🚀 About Me
 
-⚡ CP **codechef-2⭐, working for codeforces**
+- 🌐 **Website**: [antiquark007.me](http://antiquark007.me)
+- 🐦 **Twitter**: [@antiquark007](https://x.com/antiquark007)
+- 📧 **Email**: vedp5585@gmail.com
+- 🏆 **Competitive Programming**: CodeChef 2⭐ |
+- 💡 **Focus**: Building scalable applications and solving algorithmic challenges
 
-</td>
-<td width="50%" align="center">
+---
 
-  <img align="center" alt="Coding" width="450" src="https://github.com/antiquark007/bmi_calc/blob/main/61c36e236bdcc77ab100077492bcea1b.gif">
+## 📊 GitHub Statistics
 
-  </td>
-</tr>
-</table>
+<div align="center">
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antiquark007&custom_title=GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area_color=21262d&title_color=f0f6fc&area=true)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
+<div align="center">
+  
+| GitHub Stats | Streak Stats |
+|:---:|:---:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antiquark007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antiquark007&theme=github-dark-blue&hide_border=true&background=0d1117) |
 
-![ved's Graph](https://github-readme-activity-graph.vercel.app/graph?username=antiquark007&custom_title=antiquark007%20GitHub%20Activity%20Graph&bg_color=none&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+| Top Languages | Additional Stats |
+|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antiquark007&theme=github_dark&hide_border=true&bg_color=0d1117&layout=compact) | ![Additional Stats](https://github-readme-stats.vercel.app/api?username=antiquark007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&hide_rank=true&custom_title=Contributions&disable_animations=false) |
 
-| ![ved's github stats](https://github-readme-stats.vercel.app/api?username=antiquark007&show_icons=true&theme=transparent) | ![ved GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antiquark007&theme=transparent) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antiquark007&theme=transparent) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=antiquark007&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=transparent) |
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=antiquark007&theme=tokyonight&&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" />
-</p>
+</div>
 
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=antiquark007&theme=darkhub&no-frame=true&row=2&column=6&margin-w=15&margin-h=15)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://x.com/antiquark007" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="kaveendinethma" height="72" width="56" /></a>
-<a href="https://linkedin.com/in/antiquark007" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-</p>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🛠️ Technology Stack
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"><a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="typescript" height="50" width="50"/> </a>
-<a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="typescript" height="50" width="50"/> </a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="typescript" height="50" width="50"/> </a>
-<a href="https://www.expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="typescript" height="50" width="50"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" height="50" width="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" height="50" width="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" height="50" width="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" height="50" width="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" height="50" width="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" height="50" width="50"/> </a><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" /></a> 
-<a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a2322ca134c223fe4b49d637be98c3b8d9b907e8ef9c601c4bc8ce2a5824e269/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974" alt="typescript" height="50" width="50"/> </a>
-<a href="https://docs.docker.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" alt="typescript" height="50" width="50"/> </a>
+### Programming Languages
+<div align="center">
 
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Frameworks & Technologies
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+### Tools & Platforms
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/antiquark007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antiquark007)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://antiquark007.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedp5585@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+⭐ **Feel free to explore my repositories and connect!** ⭐
+
+</div>
