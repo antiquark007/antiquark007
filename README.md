@@ -1,26 +1,19 @@
-# Ved Prakash Singh
-
 <div align="center">
-  
-### Full Stack Developer
 
-*Conserving the entropy*
+# Ved Prakash Singh
+## Conserving the entropy
 
-[![Profile Views](https://komarev.com/ghpvc/?username=antiquark007&label=Profile+views&style=flat&color=0891b2)](https://github.com/antiquark007)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+scalable+backend+systems;Optimizing+performance+%26+entropy;Crafting+elegant+algorithmic+solutions" alt="Typing SVG" />
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-antiquark007.me-00D8FF?style=flat-square&logoColor=white)](http://antiquark007.me)
+[![Twitter](https://img.shields.io/badge/🐦_@antiquark007-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/antiquark007)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antiquark007)
+[![Email](https://img.shields.io/badge/📧_Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vedp5585@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=antiquark007&label=Profile+Impact&style=flat-square&color=00D8FF)
 
 </div>
 
----
-
-## 🚀 About Me
-
-- 🌐 **Website**: [antiquark007.me](http://antiquark007.me)
-- 🐦 **Twitter**: [@antiquark007](https://x.com/antiquark007)
-- 📧 **Email**: vedp5585@gmail.com
-- 🏆 **Competitive Programming**: CodeChef 2⭐ |
-- 💡 **Focus**: Building scalable applications and solving algorithmic challenges
-
----
 
 ## 📊 GitHub Statistics
 
@@ -100,7 +93,7 @@
 
 <div align="center">
   
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+### **💬 "Code is poetry written for machines, but appreciated by humans"**
 
 ⭐ **Feel free to explore my repositories and connect!** ⭐
 
