@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, ved prakash singh</h1>
+<h1 align="center">Hi 👋,I'm ved prakash singh</h1>
 <h3 align="center">conserving the entropy</h3>
 
 
@@ -14,13 +14,8 @@
 <tr border="none">
 <td width="50%" align="left">
 
-👷‍♂️ I’m currently working on [web_project](https://github.com/antiquark007/Hackathon-Esummit.git)
-
-💙 I’m currently learning [Go](https://go.dev/doc/)
-
-💯 All of my projects are available at [Github](https://github.com/antiquark007?tab=repositories)
-
 🌎 Visit my [Twitter](https://x.com/antiquark007)
+🌎 Visit my [Website](http://antiquark007.me)
 
 ✨ How to reach me **vedp5585@gmail.com**
 
