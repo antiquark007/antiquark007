@@ -14,32 +14,12 @@
 
 </div>
 
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antiquark007&custom_title=GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area_color=21262d&title_color=f0f6fc&area=true)
-
-</div>
-
 <div align="center">
   
 | GitHub Stats | Streak Stats |
 |:---:|:---:|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antiquark007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antiquark007&theme=github-dark-blue&hide_border=true&background=0d1117) |
 
-| Top Languages | Additional Stats |
-|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antiquark007&theme=github_dark&hide_border=true&bg_color=0d1117&layout=compact) | ![Additional Stats](https://github-readme-stats.vercel.app/api?username=antiquark007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&hide_rank=true&custom_title=Contributions&disable_animations=false) |
-
-</div>
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=antiquark007&theme=darkhub&no-frame=true&row=2&column=6&margin-w=15&margin-h=15)
-
-</div>
 
 ---
 
