@@ -10,16 +10,6 @@
 [![Email](https://img.shields.io/badge/📧_Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vedp5585@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=antiquark007&label=Profile+Impact&style=flat-square&color=00D8FF)
-
-</div>
-
-<div align="center">
-  
-| GitHub Stats | Streak Stats |
-|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antiquark007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antiquark007&theme=github-dark-blue&hide_border=true&background=0d1117) |
-
-
 ---
 
 ## 🛠️ Technology Stack
