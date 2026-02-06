@@ -5,7 +5,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+scalable+backend+systems;Optimizing+performance+%26+entropy;Crafting+elegant+algorithmic+solutions" alt="Typing SVG" />
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-antiquark007.me-00D8FF?style=flat-square&logoColor=white)](http://antiquark007.me)
 [![Twitter](https://img.shields.io/badge/🐦_@antiquark007-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/antiquark007)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antiquark007)
 [![Email](https://img.shields.io/badge/📧_Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vedp5585@gmail.com)
@@ -53,25 +52,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/antiquark007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antiquark007)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://antiquark007.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedp5585@gmail.com)
-
-</div>
-
----
-
-<div align="center">
   
 ### **💬 "Code is poetry written for machines, but appreciated by humans"**
 
