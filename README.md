@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/antiquark007">LinkedIn</a> ·
-  <a href="https://github.com/antiquark007">GitHub</a> ·
   <a href="mailto:vedp5585@gmail.com">Email</a>
 </p>
 
