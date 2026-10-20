@@ -61,4 +61,3 @@ My interests include backend architecture, distributed systems, algorithmic prob
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-555555?style=flat-square)
 
----
