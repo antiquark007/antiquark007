@@ -1,4 +1,4 @@
-# Ved Prakash Singh
+<h1 align="center">Ved Prakash Singh</h1>
 
 ### Software Engineer | Backend Development | AI/ML
 
