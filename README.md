@@ -1,49 +1,64 @@
-<div align="center">
-
 # Ved Prakash Singh
-## Conserving the entropy
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+scalable+backend+systems;Optimizing+performance+%26+entropy;Crafting+elegant+algorithmic+solutions" alt="Typing SVG" />
+### Software Engineer | Backend Development | AI/ML
 
-[![Twitter](https://img.shields.io/badge/🐦_@antiquark007-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/antiquark007)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/antiquark007)
-[![Email](https://img.shields.io/badge/📧_Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vedp5585@gmail.com)
+*Conserving the Entropy — Building Efficient Systems.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=antiquark007&label=Profile+Impact&style=flat-square&color=00D8FF)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=550&lines=Backend+Engineering;AI+Agents+%26+Infrastructure;Algorithms+%26+Problem+Solving;Scalable+Software+Systems" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/antiquark007">LinkedIn</a> ·
+  <a href="https://github.com/antiquark007">GitHub</a> ·
+  <a href="mailto:vedp5585@gmail.com">Email</a>
+</p>
+
 ---
 
-## 🛠️ Technology Stack
+## About Me
+
+Computer Science and Engineering professional interested in building reliable backend systems, developing AI-powered applications, and solving complex engineering problems.
+
+My interests include backend architecture, distributed systems, algorithmic problem-solving, and AI agent infrastructure. I value clean code, thoughtful system design, performance optimization, and continuous learning.
+
+- **Backend Engineering:** REST APIs, authentication, and server-side development.
+- **AI & Agent Systems:** Model Context Protocol (MCP), LangGraph, RAG, and LLM integrations.
+- **Data & Infrastructure:** Database design, Docker, Linux, and containerized applications.
+- **Algorithms:** Data structures, algorithm design, and competitive programming.
+- **Engineering Principles:** Maintainability, scalability, reliability, and performance.
+
+---
+
+## Technical Skills
 
 ### Programming Languages
-<div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-</div>
+### Backend & Databases
 
-### Frameworks & Technologies
-<div align="center">
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Tools
 
-</div>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### Tools & Platforms
-<div align="center">
+### AI/ML & Agent Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  
-### **💬 "Code is poetry written for machines, but appreciated by humans"**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-555555?style=flat-square)
 
-⭐ **Feel free to explore my repositories and connect!** ⭐
-
-</div>
+---
