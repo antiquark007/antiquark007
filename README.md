@@ -22,7 +22,7 @@ Computer Science and Engineering professional interested in building reliable ba
 My interests include backend architecture, distributed systems, algorithmic problem-solving, and AI agent infrastructure. I value clean code, thoughtful system design, performance optimization, and continuous learning.
 
 - **Backend Engineering:** REST APIs, authentication, and server-side development.
-- **AI & Agent Systems:** Model Context Protocol (MCP), LangGraph, RAG, and LLM integrations.
+- **AI & Agent Systems:** Deep Learning, MCP, LangGraph, RAG, and LLM integrations.
 - **Data & Infrastructure:** Database design, Docker, Linux, and containerized applications.
 - **Algorithms:** Data structures, algorithm design, and competitive programming.
 - **Engineering Principles:** Maintainability, scalability, reliability, and performance.
